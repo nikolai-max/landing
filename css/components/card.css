@@ -39,7 +39,7 @@
 }
 
 .card img {
-  height: 100px
+  height: 100px;
   width: 100%;
   animation: rotate 1s infinite;
 }
